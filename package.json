@@ -1,6 +1,6 @@
 {
   "name": "merge-junit-results",
-  "version": "2.0.7",
+  "version": "2.0.9",
   "description": "Nodejs cli to merge multiple JUnit XML test results",
   "main": "index.js",
   "bin": "./bin/merge-junit-results",
